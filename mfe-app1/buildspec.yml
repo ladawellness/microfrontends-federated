@@ -16,7 +16,7 @@ phases:
         - npm install
   build:
     commands:
-      - echo Build started...
+      - echo Build started..
       - npm run build
 artifacts:
   files:
