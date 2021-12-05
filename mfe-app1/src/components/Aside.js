@@ -8,7 +8,6 @@ import {
 const Aside = ({ collapsed, rtl, toggled, handleToggleSidebar, handleApp2, handleApp3 }) => {
     const intl = useIntl();
 
-
     return (
         <ProSidebar
             rtl={rtl}
